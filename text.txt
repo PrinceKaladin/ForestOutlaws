@@ -1,0 +1,9 @@
+Forest Outlaws
+com.ForestOutlaws.ForestOutlawss
+
+alias: forest
+password: forest
+alias-password: forest
+
+https://docs.google.com/document/d/1Mmy08d3PN62uc7qTDc-sP_elGzsQdS6LMUXHKUk4BYA/edit?usp=sharing
+https://www.figma.com/design/fzvNN6zR4120L2Y3sGRjLY/Untitled?node-id=3-803&t=lNG9c2fI4H6c5MGt-1
